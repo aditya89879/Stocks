@@ -1,1 +1,2 @@
 # Stocks
+This Python project is designed to check the latest stock price of companies using the Yahoo Finance (yfinance) library. Users can enter a stock symbol such as AAPL for Apple or MSFT for Microsoft, and the program fetches the most recent closing price and displays it clearly. It also handles cases where the symbol is incorrect or data is unavailable. The code uses important Python concepts like variables, functions, user input, if-else conditions, exception handling, object creation, method usage, indexing, and formatted output.
